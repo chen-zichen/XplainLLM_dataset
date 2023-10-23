@@ -14,13 +14,20 @@ Ever wondered about what language models are "thinking about" under the hood? Ea
 
 ## Contents
 
-1. [Dataset Description](#dataset-description)
-2. [Explanation Generation Framework](#explanation-generation-framework)
-3. [Key Features](#key-features)
-4. [Usage Instructions](#usage-instructions)
-5. [Potential Applications](#potential-applications)
-6. [Comparison](#comparison)
-7. [Contact](#contact)
+- [XplainLLM Documentation](#xplainllm-documentation)
+    - [Main Characteristics of XplainLLM](#main-characteristics-of-xplainllm)
+  - [Contents](#contents)
+  - [Dataset Description](#dataset-description)
+    - [Schema](#schema)
+    - [Data Format](#data-format)
+    - [Example](#example)
+  - [Explanation Generation Framework](#explanation-generation-framework)
+  - [Key Features](#key-features)
+  - [Usage Instructions](#usage-instructions)
+  - [Comparison](#comparison)
+  - [Potential Applications](#potential-applications)
+  - [To-Do List](#to-do-list)
+  - [Contact](#contact)
 
 ## Dataset Description
 
@@ -210,5 +217,5 @@ neurons in GPT-2.
 
 ## Contact
 
-For any further queries, suggestions, or collaborations, please reach out to us at [support@email.com](mailto:).
+For any further queries, suggestions, or collaborations, please reach out to us at [zichen_chen at ucsb.edu](mailto:).
 
