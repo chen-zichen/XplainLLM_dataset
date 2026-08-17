@@ -60,7 +60,7 @@ Embeddings: The embeddings of the question and answer choices.
 
 ### Data Format
 
-The dataset can be found in the file named example.jsonl, which contains one json object in each line. The format of the json object is as follows:
+The full dataset, including `example.jsonl`, will be released soon. Currently, the demo files `demo/llama-3.jsonl` and `demo/roberta.jsonl` each contain one json object in each line. The format of the json object is as follows:
 ```
 {
 	"question": typeof(string),
@@ -101,7 +101,7 @@ The following is an example instance from our XplainLLM dataset:
 
 ### Downloading
 
-Access the dataset here: [dataset/](#)
+Access the demo dataset here: [demo/llama-3.jsonl](demo/llama-3.jsonl) and [demo/roberta.jsonl](demo/roberta.jsonl)
 
 Download the demo of `Llama-3` explanation: `demo/llama-3.jsonl`
 
